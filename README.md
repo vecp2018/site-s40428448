@@ -1,2 +1,2 @@
 # 2018fall
-https://vecp2018.github.io/finalproject-ag8/content/index.html
+https://github.com/vecp2018/site-s40428448
