@@ -1,2 +1,2 @@
 # 2018fall
-https://github.com/vecp2018/site-s40428448
+https://vecp2018.github.io/site-s40428448/content/index.html?fbclid=IwAR13Yju4E7alAj6OYOsAZwJiPsygfrOO11WDWiGJTfvORzVYPyRvTHmqFYE
